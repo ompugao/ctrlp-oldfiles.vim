@@ -34,5 +34,6 @@ endfunction
 
 let s:id = g:ctrlp_builtins + len(g:ctrlp_ext_vars)
 function! ctrlp#oldfiles#id()
+    execute ":wviminfo"
     return s:id
 endfunction
