@@ -6,3 +6,6 @@
 ```
 :CtrlPOldfiles
 ```
+
+# license
+MIT
