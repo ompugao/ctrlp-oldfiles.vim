@@ -4,5 +4,5 @@
 
 # usage
 ```
-CtrlPOldfiles
+:CtrlPOldfiles
 ```
